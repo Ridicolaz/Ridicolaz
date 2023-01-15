@@ -1,6 +1,8 @@
 ### :wave: Ridicolas' Projects
+
 ---
-:earth_americas: [Trailmappers](https://www.example.com](https://store.steampowered.com/app/1790240/Trailmappers/))
+
+### :earth_americas: [Trailmappers](https://www.example.com](https://store.steampowered.com/app/1790240/Trailmappers/))
 
 *C#, Lua, Unity*
 
@@ -13,13 +15,18 @@ Trailmappers is a unofficial map editor for Trailmakers! This app lets you creat
 - Easy to use tools
 - Exporting as a Trailmakers mod
 - Drag and drop object placing
+
 ---
 
-:spades: [Minecraft UNO Plugin](https://youtu.be/IJI4DNTH524)
+### :dart: [Minecraft Minigame Plugin](https://youtu.be/IJI4DNTH524)
 
 *Java, Bukkit*
 
 ---
-:dart: [Minecraft Minigame Plugin](https://youtu.be/IJI4DNTH524)
+
+### :spades: [Minecraft UNO Plugin](https://youtu.be/IJI4DNTH524)
 
 *Java, Bukkit*
+
+![MinecraftUNOPlugin](https://user-images.githubusercontent.com/47306899/212504511-c9a806cc-7b49-4763-86ae-c736b649a559.jpg)
+
