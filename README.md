@@ -2,9 +2,11 @@
 
 ---
 
-### :earth_americas: [Trailmappers](https://www.example.com](https://store.steampowered.com/app/1790240/Trailmappers/))
+### :earth_americas: [Trailmappers](https://www.example.com](https://youtu.be/KQU4waZ3WWM))
 
-*C#, Lua, Unity*
+*C#, Lua, Unity* 
+
+*Available on Steam*
 
 Trailmappers is an unofficial map editor for Trailmakers! This app lets you create maps with ease with a simple and easy to use UI. Putting these maps into Trailmakers is as easy as hitting export, loading Trailmakers and enjoying your creation!
 
